@@ -18,7 +18,7 @@ This is a class project that I created during my big data programming class as a
 6. Put all of the 3 csv files and the file from number 2 in the same directory 
 7. Once they are in the same directory you can run my entire code and will be able to see how I showed the original datasets and the process I took to clean each dataset.
 # Directions to access my visualizations in Tableau and R studio
-* Tableau Visualization 
+* Tableau Desktop Visualization 
 1. Click on folder Visualizations used 
 2. If Tableau Desktop is not installed please install it 
 3. Click on the two files that have tableau on it and download them 
