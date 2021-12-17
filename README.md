@@ -29,4 +29,6 @@ This is a class project that I created during my big data programming class as a
 3. Click on the two files Olorunshola_personal_income_R_visualization.R and Olorunshola_occupant_alcohol_impaired_deaths_R_visualization.R 
 4. Put the files occupant_alcohol-impaired_driving_deaths_datasetscleaned.csv and Personal_Income_datasetscleaned.csv in the same directory as the two files from number 3.
 5. Once that is done you can launch R studio
-6. upload the file sepearately in R studio and run my entire code.
+6. upload the file sepearately in R studio 
+7. Make sure to install the packages that I used in my codes
+8. Once they are installed if not installed already you can run my entire code.
