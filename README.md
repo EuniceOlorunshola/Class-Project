@@ -32,3 +32,4 @@ This is a class project that I created during my big data programming class as a
 6. upload the file sepearately in R studio 
 7. Make sure to install the packages that I used in my codes
 8. Once they are installed if not installed already you can run my entire code.
+# Thank you for viewing my class project 
